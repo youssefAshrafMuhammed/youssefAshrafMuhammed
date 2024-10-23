@@ -15,7 +15,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C#, SQL, MVC, HTML, CSS, JS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://gamma.app/docs/fr1pinsg9nsuvde?following_id=pdij16kqf249i7d&follow_on_start=true to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://gamma.app/docs/Youssef-Ashraf-Web-Developer-fr1pinsg9nsuvde to see some of the projects I've worked on.
 
 
 ### Connect with Me :
